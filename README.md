@@ -1,5 +1,4 @@
 # PLCware
-# PLCware
 A prediction and monitoring software for PLC's
 
 Welcome to the PLCware code
